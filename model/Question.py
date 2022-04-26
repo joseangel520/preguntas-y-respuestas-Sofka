@@ -1,7 +1,11 @@
 # Clase esta creada para poder gestionar manera clara, las preguntas
 # Y como se podran enviar
 class Question:
-    __preguntas = [];
+    __preguntas = [
+         []
+    ];
+
+     
 
     # Metodo encargado de buscar la pregunta, recibiendo un numero 
     # Para poder compararlo
