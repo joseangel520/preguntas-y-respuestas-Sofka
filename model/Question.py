@@ -6,4 +6,4 @@ class Question:
     # Metodo encargado de buscar la pregunta, recibiendo un numero 
     # Para poder compararlo
     def getPregunta(self, numero):
-        return self.__preguntas[numero];
+        return self.__preguntas[numero]
