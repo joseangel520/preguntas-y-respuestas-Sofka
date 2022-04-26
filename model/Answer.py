@@ -1,9 +1,11 @@
-# Creando la clase donde se crean las respuestas de las preguntas
-# La clase cuenta con
-# * Una matriz encargada de tener las respuestas
-# * Un metodo de traer la respuesta
-# * Un metodo encargado de relizar la validacion respectiva de la pregunta seleccionada por el
-#   usuario con la que se encuentra almacenada en la matriz.
+''' 
+  Clase encargada donde se crean las respuestas de las preguntas
+  La clase cuenta con
+  * Una matriz encargada de tener las respuestas
+  * Un metodo de traer la respuesta
+  * Un metodo encargado de relizar la validacion respectiva de la pregunta seleccionada por el
+  * usuario con la que se encuentra almacenada en la matriz.
+'''
 class Answer:
     # Matriz en cargada de tener todas las respuestas de las preguntas
     # Esta se encuentra protegida por el modificador de acceso __
